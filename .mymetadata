@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="porttal"
+  id="myeclipse.1395279930568"
+  context-root="/porttal"
+  j2ee-spec="5.0"
+  archive="porttal.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
